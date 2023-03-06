@@ -1,0 +1,2 @@
+//This is a Sample Code File
+This Sample Code File 1a is placed under Directory 2
