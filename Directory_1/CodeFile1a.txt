@@ -1,2 +1,5 @@
 //This is a Sample Code File
 This Sample Code File 1a is placed under Directory 2
+
+// This Sample Code File has been moved
+This Sample Code File 1a has now been moved to Directory 1
